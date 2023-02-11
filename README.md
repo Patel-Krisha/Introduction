@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KRISHA PATEL</h1>
 <h3 align="center">A Passionate in Full Stack Web Development.</h3>
 
-- 💬 Ask me about **forntend-design of web application**
+- 💬 Ask me about **frontend-design of web application**
 
 - 📫 You can reach me By **krishap2610@gmail.com**
 
